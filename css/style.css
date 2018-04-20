@@ -45,6 +45,11 @@ p {
   height: 100%;
   width: 100%;
 }
+.parallax-collage {
+  min-height: 600px;
+  height: 100%;
+  width: 100%;
+}
 
 .header {
   font-family: 'Fugaz One', cursive;
