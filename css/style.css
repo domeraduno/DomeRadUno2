@@ -50,12 +50,14 @@ p {
 .header {
   font-family: 'Fugaz One', cursive;
   color:#f7b801;
-  margin-bottom: 10%;
+  /*margin-bottom: 20%;*/
 }
 
 .header-subtitle {
+  margin-top: 10%;
+  margin-bottom: 20%;
   font-family: 'Do Hyeon', sans-serif;
-  color:#f7b801;
+  color:#fff;
 }
 .row .col.s12 {
   color: rgba(140, 96, 16, 0.9);
@@ -65,7 +67,7 @@ p {
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
-    top: 40%;
+    top: 20%;
   }
   #index-banner .section {
     top: 10%;
