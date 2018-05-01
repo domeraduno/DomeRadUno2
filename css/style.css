@@ -88,7 +88,11 @@ p {
 .parallax-collage .section {
   padding-bottom: 0;
 }
- 
+.section-intro-video {
+  height: 100%;
+  width: 100%;
+}
+
 }
 
 .social-icon {
