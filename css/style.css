@@ -50,7 +50,6 @@ p {
 .header {
   font-family: 'Fugaz One', cursive;
   color:#f7b801;
-  /*margin-bottom: 20%;*/
 }
 
 .header-subtitle {
@@ -63,7 +62,7 @@ p {
 .header-subtitle2 {
   line-height: 0%;
   font-family: 'Montserrat', sans-serif;
-  color:#f00;
+  color:#fff;
 }
 
 
